@@ -45,8 +45,15 @@ I’m always open to collaborating on innovative projects in software engineerin
 ---
 
 ## 🧑‍💻 **Technologies I Use**
-![Technologies](https://skillicons.dev/icons?i=cpp,csharp,python,react,ai,ml,html,css)
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/-AI-4F79E1?style=flat&logo=ai&logoColor=white)
+![ML](https://img.shields.io/badge/-ML-F3F3F3?style=flat&logo=machine-learning&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate. 🚀
