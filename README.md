@@ -95,5 +95,50 @@ React • JavaScript • HTML/CSS • Git/GitHub • VS Code • Linux
 </p>  
 
 ---
+## 🧑‍💻 Technologies I Use
+
+### 🚀 Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+### 🤖 AI / ML / Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-F3F3F3?style=flat&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+</p>
+
+### 🧩 Agentic AI & LLMs
+<p align="left">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangGraph-000000?style=flat&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG-FF5733?style=flat&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Multi--Agent%20Systems-006699?style=flat&logo=databricks&logoColor=white" />
+</p>
+
+### 🛠 Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+</p>
+
 
 ✨ Always exploring **AI + Systems + Research** to push boundaries 🚀  
