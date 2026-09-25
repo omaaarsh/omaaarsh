@@ -59,6 +59,55 @@ const omar = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=3&section=header" />
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&height=40&lines=Production-grade+NestJS+microservice+with+59+endpoints;Real-time+chat+with+Socket.IO+and+RabbitMQ+events;AI-powered+data+tools+in+Python;Full-stack+apps+shipped+end-to-end" alt="projects typing" /></a>
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/StyleHub1/Social-Media-Service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StyleHub1&repo=Social-Media-Service&theme=tokyonight&hide_border=true&show_owner=false" alt="Social Media Service" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/omaaarsh/stylehub-chat-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaaarsh&repo=stylehub-chat-frontend&theme=tokyonight&hide_border=true" alt="StyleHub Chat Frontend" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/omaaarsh/LINCS-Gene-Query-Tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaaarsh&repo=LINCS-Gene-Query-Tool&theme=tokyonight&hide_border=true" alt="LINCS Gene Query Tool" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/omaaarsh/Deep-Neural-Network-DNN-for-Binary-Classification-V1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaaarsh&repo=Deep-Neural-Network-DNN-for-Binary-Classification-V1&theme=tokyonight&hide_border=true" alt="Deep Neural Network" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/omaaarsh/IT-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaaarsh&repo=IT-Project&theme=tokyonight&hide_border=true" alt="Startup-Collab" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/omaaarsh/Recipe-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaaarsh&repo=Recipe-Manager&theme=tokyonight&hide_border=true" alt="Recipe Manager" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=3&section=header" />
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -96,6 +145,9 @@ const omar = {
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=omaaarsh&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaaarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omaaarsh&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omaaarsh&theme=tokyonight&utcOffset=2" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=omaaarsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
