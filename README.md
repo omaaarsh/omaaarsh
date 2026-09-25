@@ -1,24 +1,24 @@
 <!-- ══════════════════════════  HEADER  ══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:2b0a12,100:4a0e1f&height=210&section=header&text=OMAR%20SHERIF%20ELGHAMRY&fontColor=E5486B&fontSize=40&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20AI%20Engineer&descSize=20&descColor=ff8fa3&descAlignY=62" alt="Omar Sherif Elghamry" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12061f,50:1a0b2e,100:2e1065&height=210&section=header&text=OMAR%20SHERIF%20ELGHAMRY&fontColor=A78BFA&fontSize=40&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20AI%20Engineer&descSize=20&descColor=c9b6ff&descAlignY=62" alt="Omar Sherif Elghamry" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A4133C&center=true&vCenter=true&width=640&height=36&lines=Building+production+backends+%40+Techkhana;Payments+%C2%B7+e-commerce+%C2%B7+event-driven+systems;AI+integration+with+LangChain+and+Bedrock;Open+to+freelance+backend+work" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=36&lines=Building+production+backends+%40+Techkhana;Payments+%C2%B7+e-commerce+%C2%B7+event-driven+systems;AI+integration+with+LangChain+and+Bedrock;Open+to+freelance+backend+work" alt="roles" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=omaaarsh&label=Profile%20views&color=800020&style=flat" alt="views" />
-<img src="https://img.shields.io/github/followers/omaaarsh?style=flat&color=a4133c&labelColor=1a1a1a" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=omaaarsh&label=Profile%20views&color=5b21b6&style=flat" alt="views" />
+<img src="https://img.shields.io/github/followers/omaaarsh?style=flat&color=7c3aed&labelColor=1a1a1a" alt="followers" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-elghamry-3a7256248/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-800020?style=flat&logo=vercel&logoColor=white)](https://omaaarsh.github.io/html-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5b21b6?style=flat&logo=vercel&logoColor=white)](https://omaaarsh.github.io/html-portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarsherifelghamry@gmail.com)
 
 </div>
 
 <!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
 ### 🧑‍💻 &nbsp;About Me
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
@@ -32,16 +32,16 @@
 
 <br/>
 
-![Backend](https://img.shields.io/badge/Backend_Engineering-800020?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI_Integration-a4133c?style=for-the-badge)
-![Payments](https://img.shields.io/badge/Payments-c9184a?style=for-the-badge)
-![Distributed](https://img.shields.io/badge/Distributed_Systems-ff4d6d?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend_Engineering-5b21b6?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Integration-7c3aed?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payments-8b5cf6?style=for-the-badge)
+![Distributed](https://img.shields.io/badge/Distributed_Systems-a78bfa?style=for-the-badge)
 
 <br clear="right"/>
 
 <!-- ══════════════════════════  TECH STACK  ══════════════════════════ -->
 ### 🛠️ &nbsp;Tech Stack
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 <!-- ══════════════════════════  EXPERIENCE  ══════════════════════════ -->
 ### 💼 &nbsp;Experience
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 **🏢 Software Engineer — [Techkhana](https://techkhana.io)** &nbsp;`2026 – Present`
 
@@ -112,7 +112,7 @@
 
 <!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
 ### 🚀 &nbsp;Featured Projects
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 | Project | Description | Tech | Link |
 | :-- | :-- | :-- | :--: |
@@ -125,22 +125,22 @@
 
 <!-- ══════════════════════════  STATS  ══════════════════════════ -->
 ### 📊 &nbsp;GitHub Stats
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omaaarsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2b0a12&title_color=C9184A&icon_color=FF8FA3&text_color=F0D5DB&ring_color=C9184A" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omaaarsh&hide_border=true&background=2b0a12&stroke=6a040f&ring=C9184A&fire=FF8FA3&currStreakLabel=C9184A&sideLabels=F0D5DB&currStreakNum=F0D5DB&sideNums=F0D5DB&dates=b98a97&excludeDaysLabel=b98a97" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omaaarsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a0b2e&title_color=A78BFA&icon_color=C4B5FD&text_color=E6DCFF&ring_color=A78BFA" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omaaarsh&hide_border=true&background=1a0b2e&stroke=4c1d95&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E6DCFF&currStreakNum=E6DCFF&sideNums=E6DCFF&dates=a99ac9&excludeDaysLabel=a99ac9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaaarsh&layout=compact&hide_border=true&langs_count=8&count_private=true&bg_color=2b0a12&title_color=C9184A&text_color=F0D5DB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaaarsh&layout=compact&hide_border=true&langs_count=8&count_private=true&bg_color=1a0b2e&title_color=A78BFA&text_color=E6DCFF" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=omaaarsh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=omaaarsh&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
 <!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
 ### 🐍 &nbsp;Contribution Graph
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:7c3aed,100:4c1d95&height=8&section=header" width="260" height="4" alt="" />
 
 <div align="center">
 
@@ -158,6 +158,6 @@
 
 **⚡ Open to freelance backend work — let's build something reliable.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A4133C&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+stopping+by!+%E2%AD%90" alt="thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+stopping+by!+%E2%AD%90" alt="thanks" />
 
 </div>
