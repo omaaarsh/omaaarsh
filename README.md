@@ -20,7 +20,7 @@
 
 <!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=About%20Me&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="About Me" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=About%20Me&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="About Me" />
 </div>
 
 <img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
@@ -46,7 +46,7 @@
 
 <!-- ══════════════════════════  TECH STACK  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Tech Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Tech Stack" />
 
 <br/>
 
@@ -83,7 +83,7 @@
 
 <!-- ══════════════════════════  EXPERIENCE  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=Experience&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Experience" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Experience&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Experience" />
 </div>
 
 ### 🏢 Software Engineer — [Techkhana](https://techkhana.io) &nbsp;`2026 – Present`
@@ -122,7 +122,7 @@
 
 <!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Featured Projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Featured Projects" />
 </div>
 
 | Project | Description | Tech | Link |
@@ -138,7 +138,7 @@
 
 <!-- ══════════════════════════  STATS  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=GitHub%20Stats&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="GitHub Stats" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=GitHub%20Stats&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="GitHub Stats" />
 
 <br/>
 
@@ -155,7 +155,7 @@
 
 <!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,100:c9184a&height=46&section=header&text=Contribution%20Graph&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Contribution Graph" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Contribution%20Graph&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Contribution Graph" />
 
 <br/>
 
