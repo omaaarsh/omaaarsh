@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:5b8def,100:7c3aed&height=220&section=header&text=Omar%20Sherif%20Elghamry&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Engineer&descAlignY=56&descSize=22&descColor=e6f5ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:5b8def,100:7c3aed&height=220&section=header&text=Omar%20Sherif%20Elghamry&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Engineer&descAlignY=56&descSize=22&descColor=e6f5ff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+Techkhana;Building+production+backends+with+Node.js+%26+NestJS;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Kafka;AI+integration+%E2%80%A2+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+Bedrock;Open+to+freelance+backend+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%40+Techkhana;Building+production+backends+with+Node.js+and+NestJS;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Kafka;AI+integration+%E2%80%A2+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+Bedrock;Open+to+freelance+backend+work" alt="Typing SVG" />
 </a>
 
 <br/>
