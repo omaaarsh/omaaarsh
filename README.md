@@ -97,8 +97,6 @@ const omar = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaaarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omaaarsh&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=7c3aed&point=ffffff" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=omaaarsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
