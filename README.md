@@ -1,7 +1,7 @@
 <!-- ══════════════════════════  HEADER  ══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:fff0f3,100:ffc2d1&height=210&section=header&text=OMAR%20SHERIF%20ELGHAMRY&fontColor=800020&fontSize=40&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20AI%20Engineer&descSize=20&descColor=a4133c&descAlignY=62" alt="Omar Sherif Elghamry" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:2b0a12,100:4a0e1f&height=210&section=header&text=OMAR%20SHERIF%20ELGHAMRY&fontColor=E5486B&fontSize=40&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20AI%20Engineer&descSize=20&descColor=ff8fa3&descAlignY=62" alt="Omar Sherif Elghamry" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A4133C&center=true&vCenter=true&width=640&height=36&lines=Building+production+backends+%40+Techkhana;Payments+%C2%B7+e-commerce+%C2%B7+event-driven+systems;AI+integration+with+LangChain+and+Bedrock;Open+to+freelance+backend+work" alt="roles" />
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
 <div align="center">
@@ -42,7 +42,7 @@
 
 <br clear="right"/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  TECH STACK  ══════════════════════════ -->
 <div align="center">
@@ -79,7 +79,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  EXPERIENCE  ══════════════════════════ -->
 <div align="center">
@@ -118,7 +118,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
 <div align="center">
@@ -134,7 +134,7 @@
 | **Startup-Collab** | Multi-language startup collaboration platform | `React` `Firebase` `i18next` | [Repo »](https://github.com/omaaarsh/IT-Project) |
 | **Recipe-Manager** | Clean-architecture console app (SOLID, design patterns) | `C#` `.NET` | [Repo »](https://github.com/omaaarsh/Recipe-Manager) |
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  STATS  ══════════════════════════ -->
 <div align="center">
@@ -151,7 +151,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
 <div align="center">
@@ -167,7 +167,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
 
 <div align="center">
 
