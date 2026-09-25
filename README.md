@@ -42,10 +42,10 @@
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55" height="55" alt="node" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="ts" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="python" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="docker" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="kubernetes" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="aws" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="rest" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="github" />
