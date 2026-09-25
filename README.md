@@ -16,14 +16,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=About%20Me&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="About Me" />
-</div>
+### 🧑‍💻 &nbsp;About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
 - 🔭 &nbsp;Software Engineer **@ Techkhana**, building **real production backends**
 - ⚙️ &nbsp;Focused on **Node.js / NestJS** and **Python / FastAPI**
@@ -42,13 +39,11 @@
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  TECH STACK  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Tech Stack" />
+### 🛠️ &nbsp;Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
-<br/>
+<div align="center">
 
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="ts" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="python" />
@@ -79,14 +74,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  EXPERIENCE  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Experience&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Experience" />
-</div>
+### 💼 &nbsp;Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
-### 🏢 Software Engineer — [Techkhana](https://techkhana.io) &nbsp;`2026 – Present`
+**🏢 Software Engineer — [Techkhana](https://techkhana.io)** &nbsp;`2026 – Present`
 
 > Backend engineering on real production systems for a Saudi-market super-app.
 
@@ -105,7 +97,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 🎓 StyleHub — Graduation Project &nbsp;`2025 – 2026` &nbsp;·&nbsp; Grade **A\***
+**🎓 StyleHub — Graduation Project** &nbsp;`2025 – 2026` &nbsp;·&nbsp; Grade **A\***
 
 > AI-driven fashion platform (NestJS · Python AI · Flutter).
 
@@ -118,12 +110,9 @@
 ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Featured Projects" />
-</div>
+### 🚀 &nbsp;Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
 | Project | Description | Tech | Link |
 | :-- | :-- | :-- | :--: |
@@ -134,13 +123,11 @@
 | **Startup-Collab** | Multi-language startup collaboration platform | `React` `Firebase` `i18next` | [Repo »](https://github.com/omaaarsh/IT-Project) |
 | **Recipe-Manager** | Clean-architecture console app (SOLID, design patterns) | `C#` `.NET` | [Repo »](https://github.com/omaaarsh/Recipe-Manager) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  STATS  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=GitHub%20Stats&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="GitHub Stats" />
+### 📊 &nbsp;GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
-<br/>
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=omaaarsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2b0a12&title_color=C9184A&icon_color=FF8FA3&text_color=F0D5DB&ring_color=C9184A" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omaaarsh&hide_border=true&background=2b0a12&stroke=6a040f&ring=C9184A&fire=FF8FA3&currStreakLabel=C9184A&sideLabels=F0D5DB&currStreakNum=F0D5DB&sideNums=F0D5DB&dates=b98a97&excludeDaysLabel=b98a97" />
@@ -151,13 +138,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
-
 <!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0409,50:6a040f,100:c9184a&height=100&section=header&text=Contribution%20Graph&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="Contribution Graph" />
+### 🐍 &nbsp;Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9184a,50:a4133c,100:6a040f&height=8&section=header" width="260" height="4" alt="" />
 
-<br/>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omaaarsh/omaaarsh/output/github-contribution-grid-snake-dark.svg" />
@@ -167,7 +152,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a040f,50:a4133c,100:c9184a&height=4&section=header" width="100%" />
+<br/>
 
 <div align="center">
 
